@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.1.32328.378
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TelephoneDictionary", "TelephoneDictionary.Web\TelephoneDictionary.csproj", "{76AD2B46-4F5D-4B49-8AF7-8566FC149BB0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TelephoneDictionary.Web", "TelephoneDictionary.Web\TelephoneDictionary.Web.csproj", "{76AD2B46-4F5D-4B49-8AF7-8566FC149BB0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

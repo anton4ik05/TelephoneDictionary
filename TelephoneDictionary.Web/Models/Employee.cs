@@ -1,6 +1,4 @@
-﻿using System.ComponentModel.DataAnnotations;
-
-namespace TelephoneDictionary.Web.Models
+﻿namespace TelephoneDictionary.Web.Models
 {
     public class Employee
     {
@@ -10,8 +8,6 @@ namespace TelephoneDictionary.Web.Models
         public string Patronymic { get; set; } = null!;
         public string MobilePhone { get; set; } = null!;
         public string Phone { get; set; } = null!;
-        
-        [Range(1,1000)]
         public int DepartmentId { get; set; }
     }
 }
